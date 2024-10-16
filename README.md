@@ -29,7 +29,7 @@ To start the game, just press play in Unreal Engine. You will autopossess `Playe
 - [ ] Il y a un menu ou on peut lancer le jeu, quitter le jeu, voir les noms des membres du groupe - /1
 - [x] La bombe se déclenche après 3 secondes - /1
 - [x] La bombe explose en croix après 3 secondes - /1
-- [ ] L’explosion se repend sur 3 cases sauf si un élément est touché. (La propagation peut continuer dans les autres directions) - /1
+- [x] L’explosion se repend sur 3 cases sauf si un élément est touché. (La propagation peut continuer dans les autres directions) - /1
 - [x] Il y a une particule de flame est visible sur chaque case de l’explosion - /1
 - [ ] Il y a un son est joué lorsque l’explosion se déclenche - /1
 - [ ] L’explosion tue un Bomber Man et détruit les murs destructibles - /1
