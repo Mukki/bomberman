@@ -2,6 +2,10 @@
 
 ## This is a remake of the game [Bomberman](https://en.wikipedia.org/wiki/Bomberman) for the course 8INF960 of Université du Québec at Chicoutimi
 
+![image](https://github.com/user-attachments/assets/51e6f28c-b3f5-46c9-8284-932e2bb65a91)
+
+To start the game, just press play in Unreal Engine. You will autopossess `Player 0` - the Rogue in the bottom right corner.
+
 ## Notation (in French)
 
 #### STRUCTURE DU PROJET
