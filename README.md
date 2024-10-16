@@ -1,6 +1,6 @@
 # Bomberman
 
-## This is a remake of the game [Bomberman](https://en.wikipedia.org/wiki/Bomberman) for the course 8INF960 of Université du Québec at Chicoutimi
+## This is a remake of the game [Bomberman](https://en.wikipedia.org/wiki/Bomberman) for the course 8INF960 of Université du Québec at Chicoutimi using Unreal Engine 5.4.4
 
 ![image](https://github.com/user-attachments/assets/51e6f28c-b3f5-46c9-8284-932e2bb65a91)
 
