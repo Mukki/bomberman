@@ -15,7 +15,7 @@ To start the game, just press play in Unreal Engine. You will autopossess `Playe
 - [x] Il y a des murs qui clôturent le niveau (13 x 11 blocs) et un terrain - /1
 - [x] Des murs indestructibles sont présents dans le niveau - /0.5
 - [x] Des murs destructibles sont présents dans le niveau - /0.5
-- [ ] Une musique du niveau est audible - /0.5
+- [x] Une musique du niveau est audible - /0.5
 - [x] Les joueurs commencent aux quatre coins du niveau - /0.5
 - [x] Chaque Bomber Man a un élément visuel qui permet de le distinguer des autres - /1
 - [ ] Polish du jeu (effets visuels, décors, ambiance du jeu, jouabilité, etc..) - /2
@@ -24,7 +24,7 @@ To start the game, just press play in Unreal Engine. You will autopossess `Playe
 - [ ] On peut jouer à 4 joueurs local /2
 - [x] On peut poser une bombe lorsqu’on appuie sur une touche - /1
 - [ ] Lorsqu’un mur destructible est détruit, il y a 50 % de chance qu’un bonus apparaisse - /1
-- [ ] Il y a un bonus qui augmente la portée de l’explosion d’une case - /2
+- [x] Il y a un bonus qui augmente la portée de l’explosion d’une case - /2
 - [ ] Il y a un bonus qui donne un bouclier pour se protéger d’une explosion - /2
 - [x] Il y a un menu ou on peut lancer le jeu, quitter le jeu, voir les noms des membres du groupe - /1
 - [x] La bombe se déclenche après 3 secondes - /1
