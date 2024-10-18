@@ -23,7 +23,7 @@ To start the game, just press play in Unreal Engine. You will autopossess `Playe
 - [x] On peut déplacer nos Bomber Man - /1
 - [ ] On peut jouer à 4 joueurs local /2
 - [x] On peut poser une bombe lorsqu’on appuie sur une touche - /1
-- [ ] Lorsqu’un mur destructible est détruit, il y a 50 % de chance qu’un bonus apparaisse - /1
+- [x] Lorsqu’un mur destructible est détruit, il y a 50 % de chance qu’un bonus apparaisse - /1
 - [x] Il y a un bonus qui augmente la portée de l’explosion d’une case - /2
 - [ ] Il y a un bonus qui donne un bouclier pour se protéger d’une explosion - /2
 - [x] Il y a un menu ou on peut lancer le jeu, quitter le jeu, voir les noms des membres du groupe - /1
