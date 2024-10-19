@@ -2,15 +2,13 @@
 
 ## This is a remake of the game [Bomberman](https://en.wikipedia.org/wiki/Bomberman) for the course 8INF960 of Université du Québec at Chicoutimi using Unreal Engine 5.4.4
 
-![image](https://github.com/user-attachments/assets/51e6f28c-b3f5-46c9-8284-932e2bb65a91)
-
-To start the game, just press play in Unreal Engine. You will autopossess `Player 0` - the Rogue in the bottom right corner.
+![image](https://github.com/user-attachments/assets/02397f88-876d-44cb-a3e0-4c0c807c9958)
 
 ## Notation (in French)
 
 #### STRUCTURE DU PROJET
-- [ ] Le projet respect la structure demandée - /0.5
-- [ ] La norme pour les noms de builds est respectée - /0.5
+- [x] Le projet respect la structure demandée - /0.5
+- [x] La norme pour les noms de builds est respectée - /0.5
 #### LE JEU
 - [x] Il y a des murs qui clôturent le niveau (13 x 11 blocs) et un terrain - /1
 - [x] Des murs indestructibles sont présents dans le niveau - /0.5
@@ -18,7 +16,7 @@ To start the game, just press play in Unreal Engine. You will autopossess `Playe
 - [x] Une musique du niveau est audible - /0.5
 - [x] Les joueurs commencent aux quatre coins du niveau - /0.5
 - [x] Chaque Bomber Man a un élément visuel qui permet de le distinguer des autres - /1
-- [ ] Polish du jeu (effets visuels, décors, ambiance du jeu, jouabilité, etc..) - /2
+- [x] Polish du jeu (effets visuels, décors, ambiance du jeu, jouabilité, etc..) - /2
 #### FONCTIONNALITÉS EN BLUEPRINT
 - [x] On peut déplacer nos Bomber Man - /1
 - [X] On peut jouer à 4 joueurs local /2
